@@ -1,0 +1,4 @@
+spring.application.name=project
+
+# mongodb curl config.
+spring.data.mongodb.uri=mongodb://localhost:27017/Cine?connectTimeoutMS=5000&socketTimeoutMS=5000&serverSelectionTimeoutMS=5000
